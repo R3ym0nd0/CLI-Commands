@@ -1,0 +1,6 @@
+1.apt-get update && apt-get upgrade -
+Update: Fetches the latest package lists from the repositories.
+Upgrade: Installs the newest versions of all installed packages.
+
+2. apt-get install <package-name> -
+Installs the specified package from the repositories (e.g., apt-get install git).

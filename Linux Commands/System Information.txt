@@ -1,0 +1,16 @@
+1.whoami - Displays current username.
+2.id - Returns users identity
+3.hostname - Sets or prints the name of current host system.
+4.uname	- Prints basic information about the operating system name and system hardware.
+5.pwd - Returns working directory name.
+6.ifconfig - The ifconfig utility is used to assign or to view an address to a network interface and/or configure network interface parameters.
+7.ip - Ip is a utility to show or manipulate routing, network devices, interfaces and tunnels.
+8.netstat - Shows network status.
+9.ss - Another utility to investigate sockets.
+10.ps - Shows process status.
+11.who -Displays who is logged in.
+12.env - Prints environment or sets and executes command.
+13.lsblk - Lists block devices.
+14.lsusb - Lists USB devices
+15.lsof	- Lists opened files.
+16lspci	- Lists PCI devices.

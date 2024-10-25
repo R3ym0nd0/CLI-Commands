@@ -1,0 +1,7 @@
+1. ifconfig - Displays or configures the network interface settings.
+2. iwconfig - Shows or changes wireless network interface settings.
+3. arp -a - It means "Address Resolution Protocol -ALL". It Displays the ARP (Address Resolution Protocol) table, 
+showing IP-to-MAC address mappings.
+4. netstat - Displays network connections, routing tables, and network interface statistics.
+5. route - Displays or modifies the system’s routing table.
+6. ping - Sends ICMP echo requests to test the connectivity to another network device.- 

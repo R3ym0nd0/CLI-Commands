@@ -1,0 +1,8 @@
+1. echo - Prints text or variables to the terminal or redirects output to a file (e.g., echo "Hey" > hey.txt).
+2. cat - Displays the contents of a file or concatenates files.
+3. Replacing vs Appending (> vs >>):
+  >: Overwrites the file with new content.
+  >>: Appends new content to the end of the file.
+4. touch - Creates an empty file or updates the timestamp of an existing file.
+5. nano - A simple text editor in the terminal.
+6. gedit - A graphical text editor, typically used in desktop environments like GNOME.

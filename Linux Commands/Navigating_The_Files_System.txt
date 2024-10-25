@@ -1,0 +1,15 @@
+1.pwd - Printing Working Directory
+2.cd - Change Directory
+3.ls - List
+4.mkdir - Make Directory
+5.rmdir - Remove Directory
+6.ls -la - See all files include hidden files, permission
+7.cp test.txt Downloads/ - Copy (files).txt (Where you want to copy it, eg..Downloads Directory)/
+8.rm - Remove(example: rm test.txt)
+9.clear - clear all the commands in your terminal
+10.mv - Move(example: mv test.txt Downloads/)
+11.locate - Quickly find what you're looking for (example: locate bash).
+12.updatedb - Updates the file database (run this to refresh the database used by locate).
+13.passwd - If you want to change your password
+14.cat - You can read whats inside of that file 
+15.man - Shows the manual pages for a command (example: man ls displays the manual for the ls command)

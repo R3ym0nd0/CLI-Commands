@@ -1,0 +1,24 @@
+1.d - Indicates a directory.
+2.- - Indicates a file (regular file).
+3.r - Read permission (can view file contents).
+4.w - Write permission (can modify file contents).
+5.x - Execute permission (can run the file as a program).
+6.rwx - Read, Write, and Execute permissions combined.
+7.d-rwx-rwx-rwx - the d indicates its directory, 
+- the 1st wrx is permissions for the owner (read, write, and execute),
+- the 2nd rwx is permissions for the group (read, write, and execute), 
+- the 3rd rwx is permissions for others (everyone else) (read, write, and execute).
+8.chmod - Changing the permission of the file or directory(example: chmod 777 test.txt)
+
+---Numeric Representation of file permission in Linux---
+ x (execute) is represented by 1.
+ w (write) is represented by 2.
+ r (read) is represented by 4.
+
+9.adduser - Add another account or user(example: adduser reymond)
+10.cat /etc/passwd - Displays basic user account information, including username, UID, GID, home directory, and shell
+11.cat /etc/shadow - Displays hashed passwords and security information for user accounts.
+Access is usually restricted to the root user or users with specific privileges.
+12.su - It means Switch User, If you want to change another account or user.
+13.sudo - Lets a user run a command as the superuser (root) or another user. 
+It's used to perform tasks that need higher permissions, like installing software or changing system settings.

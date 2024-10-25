@@ -1,0 +1,8 @@
+Data Stream for Input
+STDIN – 0
+
+Data Stream for Output
+STDOUT – 1
+
+Data Stream for Output that relates to an error occurring.
+STDERR – 2

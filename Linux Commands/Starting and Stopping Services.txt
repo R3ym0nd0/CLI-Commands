@@ -1,0 +1,5 @@
+1. Services stop/start - Stop or start a system service (e.g., systemctl stop apache2 to stop Apache service).
+
+2. systemctl enable/disable:
+Enable: Activates a service to start automatically at boot (e.g., systemctl enable apache2).
+Disable: Prevents a service from starting automatically at boot (e.g., systemctl disable apache2).- 
