@@ -1,0 +1,6 @@
+1.get-systeminfo
+2.get-netipaddress
+3.test-connection
+4.get-localuser
+5.new-localuser
+6. .\Myscript.ps1

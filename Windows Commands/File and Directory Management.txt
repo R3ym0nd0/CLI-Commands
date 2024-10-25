@@ -1,0 +1,6 @@
+1.get-childitem
+2.set-location
+3.new-item
+4.copy-item
+5.move-item
+6.remove-item
