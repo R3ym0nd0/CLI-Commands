@@ -1,0 +1,18 @@
+1.which <command>
+- Finds the path of the specified executable.
+
+2.find /path -type f -name "*.ext" -user root -size +20k -newermt "YYYY-MM-DD" -exec ls -al {} \; 2>/dev/null
+- /path: Specify the directory to search in (e.g., / for the entire filesystem).
+-type f: Search for files only.
+-name "*.ext": Match files with the specified extension.
+-user root: Filter files owned by the root user.
+-size +20k: Find files larger than 20 KiB.
+-newermt "YYYY-MM-DD": Show files newer than the specified date.
+-exec ls -al {} \;: Execute ls -al on found files.
+2>/dev/null: Redirect errors to /dev/null (suppress error messages).
+
+3.locate <filename>
+- Quickly find the location of files containing the specified name.
+
+4.apt list --installed | wc -l
+- Counts total installed packages on Debian-based systems (subtract 1 from the result).
