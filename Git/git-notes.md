@@ -43,7 +43,7 @@
 ### 🧠 Check current branch
     git branch
 
-### 📝 Git Tag Cheat Sheet:
+### 📝 Additional
 
     # List tags
     git tag
