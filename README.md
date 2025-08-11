@@ -23,7 +23,6 @@ CLI-Commands/
 This repo serves as my **CLI knowledge base**:
 - 📝 **Notes**: My own summaries, usage examples, and references for Git, Linux, and Windows.
 - ⚙ **Command Collections**: Useful commands for navigation, file handling, system management, and automation.
-- 🚀 **Future Expansion**: Plans to add advanced topics like shell scripting, batch scripts, and PowerShell automation.
 
 ---
 
